@@ -17,7 +17,15 @@ int main(){
     cout << "Alamat mahasiswa : ";
     cin >> mhs.alamat;
     cout << "Umur mahasiswa : ";
-    cin >> mhs.umur
+    cin >> mhs.umur;
 
-}2
+    cout << endl;
+    cout <<"\n Nim : "<<mhs.nim;
+    cout <<"\n Nama : "<<mhs.nama;
+    cout <<"\n Alamat : "<<mhs.alamat;
+    cout <<"\n Umur : "<<mhs.umur;
+
+
+
+}
 
